@@ -1,1 +1,1 @@
-simple shell README
+Collaboration on Simple Shell project
